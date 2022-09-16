@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+/*----ENCABEZADO----*/
+body {    
+    font-family: 'Montserrat',sans-serif;
+    overflow-x: hidden;
+}
+#menu a {
+    font-size: 18px;
+    font-weight:bold;
+    color: #3f3f3f;
+}
+#menu button {
+    font-size: 18px;
+    font-weight: bold;
+}
+/*----CARRUSEL----*/
+.carousel-inner {
+    max-height: 40rem;
+    max-width: 80rem;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(108%);
+}
+/*---- PARRAFO ----*/
+div > p {
+    font-size:30px;
+    font-weight:bold;
+    text-align:center;
+}
+/*---- FOOTER----*/
+footer {
+    background: #1b2a4e;
+    min-height: 100px;
+}
+footer p {
+    color: #f3f3f3;
+    text-align: center;
+}
+#iconos i {
+    font-size:26px;
+    padding: 0 8px;
+    color: #f3f3f3;
+}
+
+
+
+
