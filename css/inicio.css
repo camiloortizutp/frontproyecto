@@ -23,15 +23,15 @@ body {
   filter: invert(108%);
 }
 /*---- PARRAFO ----*/
-div > p {
-    font-size:30px;
+.parrafo{
+    font-size:25px;
     font-weight:bold;
     text-align:center;
 }
 /*---- FOOTER----*/
 footer {
     background: #1b2a4e;
-    min-height: 100px;
+    min-height: 50px;
 }
 footer p {
     color: #f3f3f3;
